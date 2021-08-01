@@ -2,7 +2,7 @@ import React from 'react';
 import { StyleSheet } from 'react-native';
 import { NativeBaseProvider, Box } from 'native-base';
 import { VStack, HStack, Button, IconButton, Icon, Text, Center, StatusBar } from "native-base";
-import { MaterialIcons, Fontisto, AntDesign } from '@expo/vector-icons';
+import { MaterialIcons, Fontisto, AntDesign } from '@expo/vector-icons';  
 
 function AppBar() {
   return (
